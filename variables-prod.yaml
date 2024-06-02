@@ -1,0 +1,5 @@
+login_user: root
+login_host: db-prod.indix.store
+login_password: ExpenseApp@1
+DB_HOST: db-prod.indix.store
+BACKEND_API_URL: backend.app-prod.indix.store
