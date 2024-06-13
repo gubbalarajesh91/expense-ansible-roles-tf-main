@@ -3,3 +3,5 @@ login_host: db-dev.indix.store
 login_password: ExpenseApp1
 DB_HOST: db-dev.indix.store
 BACKEND_API_URL: backend.app-dev.indix.store
+nexus_url: nexus.indix.store:8081
+appVersion: 
