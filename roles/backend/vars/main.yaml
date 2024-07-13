@@ -1,5 +1,5 @@
-app_location: /app
-component: backend
+# app_location: /app
+# component: backend
 login_user: root
 login_host: db.daws78s.online
 login_password: ExpenseApp@1
